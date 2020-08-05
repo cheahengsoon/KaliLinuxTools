@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=KEbU9SDZKHQ
 Error Solved: https://stackoverflow.com/questions/39981828/installing-nodejs-and-npm-on-linux
 
 Day 0 - Find the carefully hidden 'Score Board' page. - Done
+
+Day 1 - One Star challenge 9/10 - 05 August 2020
+
+Solution: https://pwning.owasp-juice.shop/appendix/solutions.html
