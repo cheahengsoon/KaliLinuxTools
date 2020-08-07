@@ -27,7 +27,7 @@
 | Website Penetration Testing|Status
 | ------------- |:-------------:|
 | Vega Usage||
-| ZapProxy||
+| ZapProxy|https://dev.to/cheahengsoon/website-penetration-testing-28bk|
 | Database Tools Usage||
 | CMS Scanning Tools||
 | SSL Scanning Tools||
